@@ -1,11 +1,13 @@
 {
     "name": "gs-limited-array",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Drop last element of javascript array when array reaches specific length, very similar to the queue",
-    "main": "index.js",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build": "tsc"
+        "build": "tsc",
+        "prepare": "npm run build"
     },
     "repository": {
         "type": "git",
