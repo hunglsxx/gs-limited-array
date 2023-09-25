@@ -1,0 +1,24 @@
+{
+    "name": "gs-limited-array",
+    "version": "1.0.0",
+    "description": "Drop last element of javascript array when array reaches specific length, very similar to the queue",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hunglsxx/gs-limited-array.git"
+    },
+    "bugs": {
+        "url": "https://github.com/hunglsxx/gs-limited-array/issues"
+    },
+    "homepage": "https://github.com/hunglsxx/gs-limited-array",
+    "keywords": ["limited array", "fixed length array", "array", "queue"],
+    "author": "hungls",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.2.2"
+    }
+}
