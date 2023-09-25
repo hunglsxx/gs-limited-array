@@ -1,9 +1,9 @@
 ### INSTALL
-```npm install limited-array```
+```npm install gs-limited-array```
 
 ### EXAMPLES
 ```
-import { LimitedArray } from 'limited-array';
+import { LimitedArray } from 'gs-limited-array';
 
 let limitedArray = new LimitedArray({ size: 3 });
 
