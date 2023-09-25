@@ -1,6 +1,6 @@
 {
     "name": "gs-limited-array",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Drop last element of javascript array when array reaches specific length, very similar to the queue",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
